@@ -21,4 +21,4 @@ print(users$screen_name)
 
 irma_names <- users$screen_name
 
-write.csv(irma_names, file = "/home/cynthiak/IrmaNames.csv")
+write.csv(maria_names, file = "/home/cynthiak/IrmaNames.csv")
